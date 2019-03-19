@@ -1,3 +1,5 @@
+/* eslint import/no-unresolved:
+    ['error', { commonjs: true, caseSensitive: true, ignore: ['^\.\.$'] }] */
 import { expect } from 'chai';
 import { foo, bar } from '..';
 
