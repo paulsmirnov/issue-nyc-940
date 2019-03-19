@@ -1,3 +1,4 @@
 export default function foo() {
-  return 42;
+  const magic = 42;
+  return magic;
 }
