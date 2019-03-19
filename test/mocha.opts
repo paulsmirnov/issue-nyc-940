@@ -1,0 +1,4 @@
+--recursive
+--require @babel/register
+src/**/*.test.js
+test/**/*.test.js

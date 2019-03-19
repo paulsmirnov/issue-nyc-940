@@ -1,0 +1,12 @@
+{
+  "presets": [["airbnb", {
+    "targets": {
+      "node": "10"
+    }
+  }]],
+  "env": {
+    "cover": {
+      "plugins": ["istanbul"]
+    }
+  }
+}
